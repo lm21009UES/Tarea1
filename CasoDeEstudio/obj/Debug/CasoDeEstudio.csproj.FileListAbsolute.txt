@@ -1,0 +1,8 @@
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\bin\Debug\CasoDeEstudio.exe.config
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\bin\Debug\CasoDeEstudio.exe
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\bin\Debug\CasoDeEstudio.pdb
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\obj\Debug\CasoDeEstudio.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\obj\Debug\CasoDeEstudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\obj\Debug\CasoDeEstudio.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\obj\Debug\CasoDeEstudio.exe
+C:\Users\ERICK\Documents\trabajos en C#\CasoDeEstudio\obj\Debug\CasoDeEstudio.pdb

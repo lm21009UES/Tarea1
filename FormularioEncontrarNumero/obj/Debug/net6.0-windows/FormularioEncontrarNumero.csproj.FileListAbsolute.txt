@@ -1,0 +1,17 @@
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\bin\Debug\net6.0-windows\FormularioEncontrarNumero.exe
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\bin\Debug\net6.0-windows\FormularioEncontrarNumero.deps.json
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\bin\Debug\net6.0-windows\FormularioEncontrarNumero.runtimeconfig.json
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\bin\Debug\net6.0-windows\FormularioEncontrarNumero.dll
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\bin\Debug\net6.0-windows\FormularioEncontrarNumero.pdb
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.csproj.AssemblyReference.cache
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.Arreglos.resources
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.csproj.GenerateResource.cache
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.AssemblyInfoInputs.cache
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.AssemblyInfo.cs
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.csproj.CoreCompileInputs.cache
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.dll
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\refint\FormularioEncontrarNumero.dll
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.pdb
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\FormularioEncontrarNumero.genruntimeconfig.cache
+C:\Users\ERICK\Documents\trabajos en C#\FormularioEncontrarNumero\obj\Debug\net6.0-windows\ref\FormularioEncontrarNumero.dll
